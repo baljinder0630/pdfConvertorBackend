@@ -1,0 +1,25 @@
+{
+  "name": "pdfconvertorbackend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/baljinder0630/pdfConvertorBackend.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/baljinder0630/pdfConvertorBackend/issues"
+  },
+  "homepage": "https://github.com/baljinder0630/pdfConvertorBackend#readme",
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "express": "^4.21.1",
+    "mongoose": "^8.8.2",
+    "nodemon": "^3.1.7"
+  }
+}
